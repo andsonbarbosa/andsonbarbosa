@@ -1,6 +1,6 @@
 ### 👋 Fala Dev, abaixo você pode saber mais sobre mim! 
 
-🌵  Eae, dev. Me chamo Andson, sou de Pernambuco e atualmente estou estudando ciência da computação desde 2019 pela (UNIFG)
+🌵  Eae, dev. Me chamo Andson, sou de Pernambuco e atualmente estou formado em Ciência da Computação.
 
 ##
    
